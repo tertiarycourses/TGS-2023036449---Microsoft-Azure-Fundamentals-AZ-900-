@@ -1,0 +1,7 @@
+# WSQ assessment materials (confidential — never pushed)
+/assessment/
+/assessment\ /
+
+# OS / editor
+.DS_Store
+.playwright-mcp/
